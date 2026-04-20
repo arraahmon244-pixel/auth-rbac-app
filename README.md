@@ -52,6 +52,11 @@ Tested using Postman.
 3. Start server:
    node server.js
 
+##  Concept
+
+Authentication = Who you are  
+Authorization = What you can access
+
 
 ##  Author
 ABDURRAHMON IDRIS# 
